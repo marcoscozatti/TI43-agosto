@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\TI43_teste2.props" />
+</Project>
